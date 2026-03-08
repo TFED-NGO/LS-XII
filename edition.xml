@@ -291,11 +291,26 @@
           Þis spel gebyrað seofon niht ær lenctene.
         </head>
       <ab>
-        <lb n="1" />
+        <lb n="30" />
          On ðysse ƿucan on ƿodnes-dæg sƿa sƿa ge sylfe ƿiton ·
     <pb n="64r" facs="135-64r" />
-    <lb n="2" />
-      </ab>
+    <lb n="1" />
+         Start page 64r here. Continue with the transcription of the text, including all line breaks and page breaks as they appear in the manuscript. Be sure to include all special characters and diacritics as they appear in the original text, using the appropriate TEI encoding for any characters that are not easily represented in Unicode. Continue transcribing until you reach the end of the text or the end of the manuscript, whichever comes first. Remember to include all necessary markup to ensure that the text is properly structured and can be easily navigated by users of the digital edition.
+    <pb n="64v" facs="136-64v" />
+    <lb n="1" />
+       <pb n="65r" facs="137-65r" />
+    <lb n="1" />
+       <pb n="65v" facs="138-65v" />
+    <lb n="1" />
+       <pb n="66r" facs="139-66r" />
+    <lb n="1" /> 
+       <pb n="66v" facs="140-66v" />
+    <lb n="1" />
+       <pb n="67r" facs="141-67r" />
+    <lb n="1" />
+       <pb n="67v" facs="142-67v" />
+    <lb n="1" />
+     </ab>
     </div>
 	</body>
 </text>
