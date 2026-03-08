@@ -280,31 +280,35 @@
 
 <text>
    <body>
-     <pb n="13r" facs="134-63v" />
+     <pb n="30r" facs="134-63v" />
       <div type="sermon">
         <head style="text-align: center; font-variant: smallcaps">
-          INCIPIT SERMO IN NATALE - this is a test!
-            <choice>
-              <orig>D<g ref="#N_macron"/>I.</orig> 
-              <reg>DOMINI</reg>
+        Lives of Saints XII
+          in caput ieiunii. 
+          Þis spel gebyrað seofon niht ær lenctene.
+           <choice>
+              <orig></orig> 
+              <reg></reg>
             </choice>
-          ET DE RATIONE ANIME.
+            <choice>
+              <orig></orig> 
+              <reg></reg>
+            </choice>
         </head>
       <ab>
-        <lb n="1" />
+        <lb n="30" />
 <!--The previous code read this way: "<hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam"
 The 'rend="3lines"' function was not appearing in the EVT window. Might this same problem may occur with the new code?-->
-        <!--<hi rend="large">Q</hi>
-        <hi rend="small">uondam</hi>--> 
-        Quondam
+        <!--<hi rend="large">O</hi>
+        <hi rend="small">ndysse</hi>--> 
+         On ðnd<g ref="#y_macron"/>es-dæg sƿa sƿa ge sylfe ƿiton 
         <choice>
-          <orig>dixi<g ref="#m_macron"/></orig>
-          <reg>diximus</reg>
+          <orig></orig>
+          <reg></reg>
         </choice>
-        uobis fratres quomodo saluator
         <choice>
-          <abbr>n<g ref="#r_macron"/></abbr>
-          <expan>noster</expan>
+          <abbr></abbr>
+          <expan></expan>
         </choice>
       </ab>
     </div>
