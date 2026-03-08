@@ -7,7 +7,7 @@
 
          <titleStmt>
             <title>The Boulogne Sermon: A Digital Edition</title>
-						<title>The Lives of Saints XII</title> <!-- this is the title of the digital document, not the original text -->
+						<title>The Aelfric Scriptorium Project</title> <!-- this is the title of the digital document, not the original text -->
 
             <principal>Dr. Theodore H. Leinbaugh</principal>
 						<principal>Hunter Corb</principal>
@@ -131,6 +131,8 @@
 
                </physDesc>
 
+
+
                <history> <!-- this tells you the origin and provenance of the MS -->
                   <summary></summary>
                   <origin>
@@ -147,6 +149,8 @@
                </additional>
 
             </msDesc>
+
+
 
          </sourceDesc>
       </fileDesc>
@@ -280,7 +284,35 @@
 
 <text>
    <body>
-    
+     <pb n="63v" facs="134-63v" />
+      <div type="sermon">
+        <head style="text-align: center; font-variant: smallcaps">
+          in caput ieiunii.
+          Þis spel gebyrað seofon niht ær lenctene.
+            <choice>
+              <orig>D<g ref="#N_macron"/>I.</orig> 
+              <reg>DOMINI</reg>
+            </choice>
+          ET DE RATIONE ANIME.
+        </head>
+      <ab>
+        <lb n="1" />
+<!--The previous code read this way: "<hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam"
+The 'rend="3lines"' function was not appearing in the EVT window. Might this same problem may occur with the new code?-->
+        <!--<hi rend="large">Q</hi>
+        <hi rend="small">uondam</hi>--> 
+        Quondam
+        <choice>
+          <orig>dixi<g ref="#m_macron"/></orig>
+          <reg>diximus</reg>
+        </choice>
+        uobis fratres quomodo saluator
+        <choice>
+          <abbr>n<g ref="#r_macron"/></abbr>
+          <expan>noster</expan>
+        </choice>
+      </ab>
+    </div>
 	</body>
 </text>
 </TEI>
