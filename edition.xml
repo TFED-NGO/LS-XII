@@ -280,38 +280,7 @@
 
 <text>
    <body>
-     <pb n="30r" facs="134-63v" />
-      <div type="sermon">
-        <head style="text-align: center; font-variant: smallcaps">
-        Lives of Saints XII
-          in caput ieiunii. 
-          Þis spel gebyrað seofon niht ær lenctene.
-           <choice>
-              <orig></orig> 
-              <reg></reg>
-            </choice>
-            <choice>
-              <orig></orig> 
-              <reg></reg>
-            </choice>
-        </head>
-      <ab>
-        <lb n="30" />
-<!--The previous code read this way: "<hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam"
-The 'rend="3lines"' function was not appearing in the EVT window. Might this same problem may occur with the new code?-->
-        <!--<hi rend="large">O</hi>
-        <hi rend="small">ndysse</hi>--> 
-         On ðnd<g ref="#y_macron"/>es-dæg sƿa sƿa ge sylfe ƿiton 
-        <choice>
-          <orig></orig>
-          <reg></reg>
-        </choice>
-        <choice>
-          <abbr></abbr>
-          <expan></expan>
-        </choice>
-      </ab>
-    </div>
+    
 	</body>
 </text>
 </TEI>
