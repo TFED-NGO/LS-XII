@@ -294,11 +294,14 @@
         <lb n="1" />
          ON ĐYSSE WUCAN ON WODNES-DÆG SWA SWA GE SYLFE 
         <lb n="2" />
-         is caput ieiunii . ƀ 
-         <expand>þæt</expand>
+         is caput ieiunii . 
+         <choice>
+            <orig>ƀ</orig>
+            <expan>þæt</expan>
+        </choice>
           is on englisc . heafod lenctenes fæste
         <lb n="3" />
-        nes.We (etað on þam sunnan-dagum on undern and on æfen .
+        nes.We etað on þam sunnan-dagum on undern and on æfen .
     <pb n="64r" facs="135-64r" />
         <lb n="4" />
          forðan þe se sunnan-dæg is swa halig þæt se man bið wyrðe 
