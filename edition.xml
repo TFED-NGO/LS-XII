@@ -24,12 +24,12 @@
 							 <name>Hunter Corb</name><!-- Other instructors go here -->
             </respStmt>
             <respStmt>
-								<resp>Encoding in TEI-conformant markup:</resp>
-									<name>Hunter Corb</name>
-									<name>Sarah Bulger</name>
-                  <name>Eve Svoboda</name>
-                  <name>Jackson Meade</name>
-                  <name>Micah Morse</name>
+				<resp>Encoding in TEI-conformant markup:</resp>
+				<name>Hunter Corb</name>
+				<name>Sarah Bulger</name>
+                <name>Eve Svoboda</name>
+                <name>Jackson Meade</name>
+                <name>Jacqueline Bodycomb</name>
             </respStmt>
             <respStmt>
                <resp>Manuscription description:</resp>
@@ -599,7 +599,12 @@
     </choice> 
     he cuðe anne mann mid
     <lb n="56" />
-<lb n="57" />
+    ælfege bisceope . se wolde drincan on lenctene 
+    <choice>
+        <orig>þo<hi rend="superscript">n</hi>ne</orig>
+        <expan>þonne</expan>
+    </choice>
+ <lb n="57" />
 <lb n="58" />
 <lb n="59" />
     <lb n="60" />
