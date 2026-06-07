@@ -470,10 +470,7 @@
     <pb n="64v" facs="136-64v" />
         <lb n="36" />
         nolde gan to þám axum on þone wodnes dæg swa swa oðre
-        <pb n="65r" facs="137-65r" /> 
-        <lb n="36" /> 
-        nolde gan to þám axum on þone wodnes dæg swa swa oðre 
-        <lb n="37" /> 
+         <lb n="37" /> 
         men dydon þe þa mæssan ge sohton . Þa bædon his ge
         <lb n="38" />
         feran
@@ -613,15 +610,15 @@
     <lb n="65" />
     <lb n="66" />
     <lb n="67" />
-    <pb n="65v" facs="138-65v" />
+<pb n="65r" facs="137-65r" /> 
     <lb n="68" />
-    <pb n="66r" facs="139-66r" />
+<pb n="66r" facs="138-65v" />
     <lb n="1" /> 
-       <pb n="66v" facs="140-66v" />
+       <pb n="66v" facs="139-66r" />
     <lb n="1" />
-       <pb n="67r" facs="141-67r" />
+       <pb n="67r" facs="140-66v" />
     <lb n="1" />
-       <pb n="67v" facs="142-67v" />
+       <pb n="67v" facs="141-67r" />
     <lb n="1" />
      </ab>
     </div>
