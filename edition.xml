@@ -601,7 +601,7 @@
     <lb n="56" />
     ælfege bisceope . se wolde drincan on lenctene 
     <choice>
-        <orig>þo<hi rend="superscript">n</hi>ne</orig>
+       <orig>þo<sup>n</sup>ne</orig>
         <expan>þonne</expan>
     </choice>
     <lb n="57" />
@@ -626,7 +626,7 @@
         <orig>⁊se </orig>
         <expan>and se</expan>
     </choice>
-     fear arn him togeanes . 
+    fear arn him togeanes . 
     <choice>    
         <orig>⁊hine</orig>
         <expan>and hine</expan>
