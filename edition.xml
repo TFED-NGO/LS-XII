@@ -93,7 +93,7 @@
 
                   </summary>
                   <textLang mainLang="la">
-      							Predominantly in Latin·
+      							Predominantly in Latin.
       						</textLang>
                </msContents>
 
@@ -384,10 +384,10 @@
         cerdas bletsiað swa swa hit geset is · clæne axan on cyrcan ·
         <lb n="16" />
         <choice>
-         <orig>⁊þa</orig> 
-            <expan>and þa</expan>
+         <orig>⁊</orig> 
+            <expan>and</expan>
             </choice>
-          siððan lecgað uppa manna heafda ·  
+          þa siððan lecgað uppa manna heafda ·  
         <choice>
             <orig>ꝥ</orig>
             <expan>þæt</expan>
@@ -401,22 +401,27 @@
         </choice>  
         hi of eorðan comon · 
         <choice>
-            <orig>⁊eft</orig>
-            <expan>and eft</expan>
+            <orig>⁊</orig>
+            <expan>and</expan>
         </choice>      
-        to duste gewen
+         eft to duste gewen
         <lb n="18" />
         dad · swa swa se ælmihtiga god to adame cwæð · siððan he
         <lb n="19" />
-        agylt hæfde ongean godes bebod · On geswincü þu leofast
+        agylt hæfde ongean godes bebod · On 
+        <choice>
+            <orig>geswincü</orig>
+            <expan>geswincum</expan>
+        </choice>  
+        þu leofast
         <lb n="20" />
         <choice>
-            <orig>⁊on</orig>
-            <expan>and on</expan>
+            <orig>⁊</orig>
+            <expan>and</expan>
         </choice>   
-        swate þu etst þinne hláf on eorðan · oð  
+        on swate þu etst þinne hláf on eorðan · oð  
         <choice>
-            <orig>ꝥ</orig>
+            <orig></tool_call></orig>
             <expan>þæt</expan>
         </choice> 
         þu eft gewen
@@ -425,19 +430,19 @@
         <lb n="22" />
         eart dust · 
         <choice>
-            <orig>⁊to</orig>
-            <expan>and to</expan>
+            <orig>⁊</orig>
+            <expan>and</expan>
         </choice>
-        duste gewendst · Nis þis na gesæd be man
+        to duste gewendst · Nis þis na gesæd be man
         <lb n="23" />
         sawlum · ac be manna lichaman þe for-molsniað to
         <lb n="24" />
         duste · 
         <choice>
-            <orig>⁊eft</orig>
-            <expan>and eft</expan>
+            <orig>⁊</orig>
+            <expan>and</expan>
         </choice> 
-        sceolan on domes dæg ðurh ures drihtnes
+        eft sceolan on domes dæg ðurh ures drihtnes
         <lb n="25" />
         mihte ealle of eorðan arísan þe æfre cuce wæron ·  
         <lb n="26" />
@@ -460,10 +465,10 @@
         <lb n="30" />
         um hi sylfe bestreowodon · 
         <choice>
-            <orig>⁊mid</orig>
-            <expan>and mid</expan>
+            <orig>⁊</orig>
+            <expan>and</expan>
         </choice> 
-        hæran hi gescryddon
+        mid hæran hi gescryddon
         <lb n="31" />
          to lice · nu do we þis lytle on ures lenctenes anginne ·
         <lb n="32" />
