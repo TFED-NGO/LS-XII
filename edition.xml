@@ -25,7 +25,7 @@
             </respStmt>
             <respStmt>
 				<resp>Encoding in TEI-conformant markup:</resp>
-				<name>Hunter Corb</name>
+				<name>Nancy Setzler</name>
 				<name>Sarah Bulger</name>
                 <name>Eve Svoboda</name>
                 <name>Jackson Meade</name>
@@ -287,7 +287,7 @@
      <pb n="63v" facs="134-63v" />
       <div type="sermon">
         <head style="text-align:center; font-variant: smallcaps">
-        IN CAPUT IEIUNII X·
+        IN CAPUT IEIUNII ·
         <choice>
             <expan> Þis spel gebyrað seofon niht ær lenctene · </expan>
         </choice>
@@ -307,6 +307,7 @@
         <choice>
             <orig>dagü</orig>
             <expan>dagum</expan>
+        </choice>
          on undern 
         <choice>
         <orig>⁊</orig>
@@ -756,7 +757,7 @@ sylf hæfð gehaten eallum þam ðe hine lufiað ·
  hi
  <lb n="80" />
  moten wunian on ðam ylcean wuldre mid him sylfum
-       <pb n="66v" facs="139-66r" />
+<pb n="66v" facs="139-66r" />
     <lb n="1" />
        <pb n="67r" facs="140-66v" />
     <lb n="1" />
